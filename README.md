@@ -8,7 +8,7 @@ pnpm install
 pnpm start
 ```
 
-## Use ts-node-esm
+## Alternatively using ts-node-esm
 ```shell
 pnpm start:ts-node-esm
 ```
