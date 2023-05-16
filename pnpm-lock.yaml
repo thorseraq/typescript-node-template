@@ -1,0 +1,19 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  '@tsconfig/node16':
+    specifier: ^1.0.4
+    version: 1.0.4
+  '@types/node':
+    specifier: ^20.1.5
+    version: 20.1.5
+
+packages:
+
+  /@tsconfig/node16@1.0.4:
+    resolution: {integrity: sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==}
+    dev: false
+
+  /@types/node@20.1.5:
+    resolution: {integrity: sha512-IvGD1CD/nego63ySR7vrAKEX3AJTcmrAN2kn+/sDNLi1Ff5kBzDeEdqWDplK+0HAEoLYej137Sk0cUU8OLOlMg==}
+    dev: false
