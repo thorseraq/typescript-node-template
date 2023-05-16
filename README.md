@@ -1,2 +1,14 @@
 # typescript-node-template
-An out of the box project using node and typescript
+This is an out of the box project using node and typescript. Default module resolution is ESM.
+
+## Run
+
+```shell
+pnpm install
+pnpm start
+```
+
+## Use ts-node-esm
+```shell
+pnpm start:ts-node-esm
+```
