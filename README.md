@@ -13,5 +13,5 @@ pnpm start
 pnpm start:ts-node-esm
 ```
 
-## out-of-box tools based on this template
+## Tools based on this template
 - [prisma-introspect](https://github.com/thorseraq/prisma-introspect), generate prisma schema from existing data source
